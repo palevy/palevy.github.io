@@ -7,8 +7,12 @@
   background-color: #272727;
 }
 
-footer {
+#contact {
   background-color: #272727;
+}
+
+footer {
+  background-color: #ffffff;
 }
 
 section {
@@ -17,4 +21,12 @@ section {
 
 svg {
   margin-bottom: -2px;
+}
+
+.gallery-img {
+  width: 100%;
+}
+
+#gallery .row > * {
+  padding: 0;
 }
